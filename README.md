@@ -1,3 +1,4 @@
+
 Chemical Equipment Data Visualizer
 A full-stack application for visualizing chemical equipment data using a Django REST backend, React web frontend, and a PyQt5 desktop application.
 
@@ -81,6 +82,7 @@ You can test the application using:
 
 ?? Demo Video
 Click here to watch the demo video
+
 
 
 
