@@ -32,25 +32,35 @@ Make sure you have the following installed:
 
 How to Run the Project
 Option 1:
+ 
  Run Everything Automatically
+ 
  run_all.bat
+ 
 This will:
 * Start the backend
 * Start the web frontend
 
 Option 2: Run Components Manually
 1. Start Backend (Required)
+   
 run_backend.bat
+
 Wait until you see:
+
 Starting development server at http://127.0.0.1:8000/
 
-2. Start Web Frontend
+3. Start Web Frontend
+   
 run_web.bat
+
 Open in browser:
 http://localhost:5173
 
-3. Start Desktop Application
+5. Start Desktop Application
+   
 run_desktop.bat
+
  Important:
 The backend must be running before launching the desktop app.
 
