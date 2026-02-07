@@ -38,17 +38,17 @@ This will:
 * Start the web frontend
 
  Option 2: Run Components Manually
-1 Start Backend (Required)
+1. Start Backend (Required)
 run_backend.bat
 Wait until you see:
 Starting development server at http://127.0.0.1:8000/
 
-2 Start Web Frontend
+2. Start Web Frontend
 run_web.bat
 Open in browser:
 http://localhost:5173
 
-3 Start Desktop Application
+3. Start Desktop Application
 run_desktop.bat
  Important:
 The backend must be running before launching the desktop app.
