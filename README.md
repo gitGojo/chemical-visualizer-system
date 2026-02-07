@@ -31,6 +31,7 @@ Make sure you have the following installed:
 * Windows OS (for .exe)
 
 How to Run the Project
+
 Option 1:
  
  Run Everything Automatically
