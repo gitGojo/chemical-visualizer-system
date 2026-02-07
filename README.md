@@ -22,7 +22,7 @@ chemical_visualizer/
  verify_backend_health.py  # Backend health check
  README.md                 # Project documentation
 
- Prerequisites
+Prerequisites
 Make sure you have the following installed:
 * Python 3.10+
 * Node.js 18+
@@ -30,14 +30,15 @@ Make sure you have the following installed:
 * Git
 * Windows OS (for .exe)
 
- How to Run the Project
- Option 1: Run Everything Automatically
-run_all.bat
+How to Run the Project
+Option 1:
+ Run Everything Automatically
+ run_all.bat
 This will:
 * Start the backend
 * Start the web frontend
 
- Option 2: Run Components Manually
+Option 2: Run Components Manually
 1. Start Backend (Required)
 run_backend.bat
 Wait until you see:
